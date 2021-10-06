@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working on the Chef team at Progress Software helping to bring order to the chaos of IT large systems management
 <!--
 **johnmccrae/johnmccrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
