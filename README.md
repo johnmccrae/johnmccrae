@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 ## Contact Info
 
+
+
 ## Languages and Tools
+
+[email] mailto:john.mccrae@progress.com
+[twitter] https://twitter.com/hayfever76
+[linkedin] https://www.linkedin.com/in/johnmccrae/
