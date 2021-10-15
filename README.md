@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 ## Contact Info
 
-![email](https://img.shields.io/badge/mail-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white)
-![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)
+[<img align="left" alt="John McCrae | Email" width="150px" height="20px" src="https://img.shields.io/badge/John McCrae%20%7C%20Email-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white"/>][email]
+<br/>
+[<img align="left" alt="John McCrae | Twitter" width="150px" height="20px" src="https://img.shields.io/badge/Hayfever76%20%7C%20Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>][twitter]
+<br/>
+[<img align="left" alt="John McCrae | LinkedIn" width="150px" height="20px" src="https://img.shields.io/badge/John McCrae%20%7C%20linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>][twitter]
+<br/>
 
+[email]: mailto:john.mccrae@progress.com
+[twitter]: https://twitter.com/hayfever76
+[linkedin]: https://www.linkedin.com/in/johnmccrae/
 
 ## Languages and Tools
-
-[email] mailto:john.mccrae@progress.com
-[twitter] https://twitter.com/hayfever76
-[linkedin] https://www.linkedin.com/in/johnmccrae/
+![c#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=White)
+<br/>
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
