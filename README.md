@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Contact Info
 
-https://img.shields.io/badge/mail-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white
+![email](https://img.shields.io/badge/mail-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white)
 
 
 ## Languages and Tools
