@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## Contact Info
 
 ![email](https://img.shields.io/badge/mail-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white)
+![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)
+![linkedin](https://img.shields.io/badge/mail-0078D4?style=flat-square&logo=MicrosoftExchange&logoColor=white)
 
 
 ## Languages and Tools
