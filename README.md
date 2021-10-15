@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Contact Info
 
-https://img.shields.io/badge/mail-#0078D4
+https://img.shields.io/badge/mail-0078D4
 
 
 ## Languages and Tools
