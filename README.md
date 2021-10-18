@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 <br/>
 ![c#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=White)
 <br/>
