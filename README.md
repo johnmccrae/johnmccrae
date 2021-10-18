@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 <br/>
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=White)
 <br/>
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=White)
+<br/>
