@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 <br/>
 ![c#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=White)
 <br/>
-![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=White)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=White)
 <br/>
