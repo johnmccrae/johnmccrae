@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 ![c#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=White)
 <br/>
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<br/>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
