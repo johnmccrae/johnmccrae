@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about managing large numbers of mobile devices remotely
 - 📫 How to reach me: see below
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm a funghi!
 
 
 ## Contact Info
