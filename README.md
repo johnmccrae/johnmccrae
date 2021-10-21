@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the Chef client and working through managing no certificates on disk
+- 🔭 I’m currently working on the Chef client and the vagaries of "no certificates on disk" security
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on CSharp and to learn more about it. 
 - 🤔 I’m looking for help with 
