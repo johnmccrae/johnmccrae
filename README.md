@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the Chef client and the vagaries of "no certificates on disk" security
+- 🔭 I was formerly the IT manager here at Chef. I love solving gnarly tech problems to make users lives easier and better
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on CSharp and to learn more about it. 
 - 🤔 I’m looking for help with 
