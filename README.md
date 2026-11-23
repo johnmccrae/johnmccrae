@@ -1,20 +1,19 @@
 # Hi there 👋
-🔭 I’m currently working on the Chef team at Progress Software helping to bring order to the chaos of IT large systems management
+🔭 I’m currently looking for my next gig in Platform Engineering, IT Management, or Software Development
 <!--
 **johnmccrae/johnmccrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the Chef client and the vagaries of "no certificates on disk" security
+- 🔭 I’m currently learning Kubernetes and thinking about how to apply enterprise standards to small business in an affordable manner.
 - 🔭 I was formerly the IT manager here at Chef. I love solving gnarly tech problems to make users lives easier and better
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on CSharp and to learn more about it. 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on CSharp and to learn more about it.
+- 🤔 I’m looking for help with Go
 - 💬 Ask me about managing large numbers of mobile devices remotely
 - 📫 How to reach me: see below
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a funghi!
-
 
 ## Contact Info
 
@@ -23,8 +22,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="John McCrae | LinkedIn" width="150px" height="20px" src="https://img.shields.io/badge/John McCrae%20%7C%20linkedin-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>][twitter]
 <br/>
 
-[email]: mailto:john.mccrae@progress.com
-[twitter]: https://twitter.com/hayfever76
+[email]: mailto:jmccrae@goggtp.com
 [linkedin]: https://www.linkedin.com/in/johnmccrae/
 
 ## Languages and Tools
